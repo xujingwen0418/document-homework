@@ -1,2 +1,0 @@
-# document-homework
-readme
